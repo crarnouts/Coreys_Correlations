@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```{r}
 plot(pressure)
 ```
 
