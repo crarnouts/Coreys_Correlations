@@ -14,6 +14,8 @@ You can also embed plots, for example:
 
 ```{r}
 plot(pressure)
+
+print(5+5)
 ```
 
 
