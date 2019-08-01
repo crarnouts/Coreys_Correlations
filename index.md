@@ -12,13 +12,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 You can also embed plots, for example:
 
-```{r}
+```
 plot(pressure)
 
 print(5+5)
-```
 
 ![Image](C:\Users\carnout\Documents\Ferris State Sports.PNG)
+```
+
+
 
 
 
