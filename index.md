@@ -17,6 +17,9 @@ plot(pressure)
 
 print(5+5)
 ```
+##Attempting to plug in picture##
+![Image](C:\Users\carnout\Documents\Ferris State Sports.PNG)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
