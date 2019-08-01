@@ -17,7 +17,7 @@ plot(pressure)
 
 print(5+5)
 ```
-##Attempting to plug in picture##
+
 ![Image](C:\Users\carnout\Documents\Ferris State Sports.PNG)
 
 
